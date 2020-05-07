@@ -39,7 +39,7 @@ def check():
    break       #display out of range
 s = smtplib.SMTP('smtp.gmail.com', 587) 
 s.starttls() 
-s.login("amitskotagi.cs18@rvce.edu.in", "Qwerty#0987") 
+s.login("amitskotagi.cs18@rvce.edu.in", "*********") 
 
 
 
